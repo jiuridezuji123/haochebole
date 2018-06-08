@@ -1,0 +1,49 @@
+*{
+			padding: 0px;
+			margin: 0px;
+		}
+		html,body{
+			width: 100%;
+			height: 100%;
+			/*font-size:?12px!important;
+		    line-height:?24px;	*/
+		}
+		    .wrap{
+				width: 100%;
+				height: auto;
+				min-width: 1200px;
+			}
+			.congtent{
+				
+				border: 1px solid red;
+				margin: 0 auto;
+				width: 85%;
+				/*height: 500px;*/
+				padding: 0px 2% 0px 2%;
+			}
+			.bole-head{
+				width: 100%;
+				font-size: 0.39rem;
+				margin-top: 40px;
+				margin-left: 8%;
+			}
+			.wrap-bole-title{
+				width:82%;
+				/*height: 90px;*/
+				margin: 0 auto;
+				border: 1px solid yellow;				
+			}
+			.bole-title{
+				width: 100%;
+				height: 92px;
+				font-size: 0.52rem;
+				padding-left: 3.4%;
+			}
+			.bole-title img{
+				width: 50px;
+				height: 50px;
+			}
+			.wrap-bole-title-name{
+				font-size: 0.42rem;
+				text-align: center;
+			}

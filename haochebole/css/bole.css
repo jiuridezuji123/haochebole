@@ -1,0 +1,125 @@
+*{margin:0;padding:0;}
+ul,li{list-style: none;}
+.bg div{
+	width: 120px;
+	height: 40px;
+	font-size: 13px;
+	color: #fff;
+	background: url(../images/tite-background.png) no-repeat;
+	background-size: 100% 100%;
+	line-height: 40px;
+	padding-left: 12px;
+}
+.head_logo img{height:50px;width:100px;float: right;}
+
+.page-header-custom{	
+	margin-bottom: 30px;
+	height:40px;
+	color:#ffffff;
+	font-size: 26px;
+	line-height: 40px;
+	background: #d2d2d2;
+	padding: 0px;
+	border: 0px;
+}
+.css-red{color:red;]}
+.bole-map{height:230px;margin-bottom: 30px; }
+.bole-map img{width: 100%;height:100%;}
+.img-responsive {margin-left:340px;width: 25px;height:25px;}
+.item_title{text-align:center;}
+.item_title img{width:40px;height:30px;margin-top:-12px;}
+.item_title span{font-size: 25px;}
+.page-header div{
+	width: 100%;
+	height: 50px;
+	font-size: 26px;
+	color: #fff;
+	background: url(../images/title.png)repeat-x;background-size:100% 100%;
+	background-size: 100% 100%;
+	line-height:50px;
+	padding-left: 12px;
+}
+
+
+.tab-th1{
+	font-size: 11px; 
+	color: #000;
+	background-color: #ddd;
+}
+.tab-td td{ 
+	text-align: center;
+	width: 75px;
+	height: 32px;
+}
+.tab-td td:nth-child(4){
+	text-align: center;
+	width: 245px;
+	height: 32px;
+}
+#tan8 td{
+	width: 75px;
+	height: 30px;
+}
+.tan8 td:nth-child(odd){
+	 background-color: #ddd;
+}
+
+.tan3 td:nth-child(odd){
+	 background-color: #ddd;
+	 border:1;
+ }
+.tan4 td:nth-child(odd){
+	 background-color: #ddd;
+	 border:1;
+}
+.tan3 td img{width:60%;height:60%;text-align: center;margin:0 auto;}
+.tan5 td:nth-child(odd){
+	 background-color: #ddd;
+	 width:22%;
+	 border:1;
+}
+/*.tan6 td{height:180px;}*/
+
+
+.tan6 td:nth-child(odd){width:30%;}
+.tan6 td:nth-child(even){width:70%;font-weight:600;margin-left: 100px;}
+.tan6 td p{margin-left: 50px;font-size: 24px;}
+.tan6 tr:nth-child(even){background:#e2e2e2;}
+.tan6 ul{overflow:hidden;display: inline-block;}
+.tan6 ul li{padding-left:60px;display: inline-block;float: left;}
+.tan6 img{height:100%;width:100%;}
+.tan6 ul li img{width:20px;height:20px;}
+
+
+
+
+.tan5 td:nth-child(even){
+	 width:78%;
+	 border:1;
+}
+.tan2 td:nth-child(odd){
+	 background-color: #ddd;
+	 width:22%;
+	 border:1;
+}
+.tan2 td:nth-child(even){
+	 width:78%;
+	 border:1;
+}
+.tan8-statement{
+	border: 1px solid #ddd;
+	margin: 0px;
+	padding-top: 13px;
+	padding-left: 12px;
+	padding-bottom: 13px;
+}
+.tan8-time{
+	text-align: right;
+	padding-right: 10px;
+	color: #000;
+	font-size: 11px;
+	margin-top: 13px;
+	margin-bottom: 20px;
+}
+.beijin_title{margin-bottom: 30px;height:50px;color:#ffffff;font-size: 26px;line-height: 50px;}
+
